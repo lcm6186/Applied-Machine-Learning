@@ -1,2 +1,3 @@
-# Applied-Machine-Learning
- Leveraging the foundations of statistics and modeling; conduct more in-depth modelling with machine learning and neural networks
+# sp21dsa8010
+
+The Spring 21 course repo for Data Analytics from Applied Machine Learning. 
